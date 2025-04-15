@@ -1,0 +1,69 @@
+{
+  "originHash" : "9100ed6e0c76ecd3a47a498214b3b0757a72d76ac01415531c83c7f0c99d6790",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "alamofireimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/AlamofireImage.git",
+      "state" : {
+        "revision" : "1eaf3b6c6882bed10f6e7b119665599dd2329aa1",
+        "version" : "4.3.0"
+      }
+    },
+    {
+      "identity" : "bolts-objc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Bolts-ObjC.git",
+      "state" : {
+        "revision" : "1eee96ad3bcfc8964c0a5815ce94f491eb6ac8c2",
+        "version" : "1.10.0"
+      }
+    },
+    {
+      "identity" : "bolts-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BoltsFramework/Bolts-Swift.git",
+      "state" : {
+        "revision" : "d8c07eee2045a13f34330c0a4664053b5176e3f0",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "parse-sdk-ios-osx",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-SDK-iOS-OSX",
+      "state" : {
+        "revision" : "f070442424d43d5169bccaa4e7414fbc6571e683",
+        "version" : "5.1.1"
+      }
+    },
+    {
+      "identity" : "parse-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/parse-community/Parse-Swift",
+      "state" : {
+        "revision" : "dc7666f774755be333f48f25c4d8bead0a1a6877",
+        "version" : "4.14.2"
+      }
+    },
+    {
+      "identity" : "starscream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/daltoniam/Starscream.git",
+      "state" : {
+        "revision" : "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+        "version" : "4.0.8"
+      }
+    }
+  ],
+  "version" : 3
+}
